@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhasinamolika
-- 👀 I’m interested in android development and blockchain
+- 👀 I’m interested in web development and blockchain
 - 🌱 I’m currently learning problem solving,java,android development
 - 💞️ I love to blend my skills and creativity to create some real-world projects that can help the world in a huge way!
 - 📫 How to reach me https://www.linkedin.com/in/amolika-bhasin-5019b81b6
